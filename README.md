@@ -7,7 +7,7 @@
 ## What files do I need?
 
 You'll need **train.csv**, **test.csv**, and **sample_submission.csv**.
-Please checkout [Kaggle data page](https://www.kaggle.com/c/tweet-sentiment-extraction/data)
+- Please checkout [Kaggle data page](https://www.kaggle.com/c/tweet-sentiment-extraction/data)
 
 ## What should I expect the data format to be?
 

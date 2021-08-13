@@ -21,3 +21,9 @@
 6. https://www.kaggle.com/vbmokin/tse2020-roberta-0-7175-prlb-outlier-analysis  Outlier Analysis
 
 
+## Some additional links on tricks/approaches
+1. https://www.kaggle.com/abhishek/text-extraction-using-bert-w-sentiment-inference  BERT Model
+https://www.youtube.com/watch?v=XaQ0CBlQ4cY&t=139s  live coding the problem using BERT
+2. https://www.kaggle.com/aditidutta/tweet-sentiment-extraction-pytorch roberta + BERT in Pytorch 
+
+

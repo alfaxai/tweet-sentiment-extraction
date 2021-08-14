@@ -25,5 +25,6 @@
 1. https://www.kaggle.com/abhishek/text-extraction-using-bert-w-sentiment-inference  BERT Model
 https://www.youtube.com/watch?v=XaQ0CBlQ4cY&t=139s  live coding the problem using BERT
 2. https://www.kaggle.com/aditidutta/tweet-sentiment-extraction-pytorch roberta + BERT in Pytorch 
+3. https://www.kaggle.com/pranavkasela/bert-vs-spark-nlp-use-embeddings
 
 
